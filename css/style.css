@@ -193,6 +193,11 @@
 		padding: 0 1em;
 		text-decoration: none;
 		width: 100%;
+		.heighttext{
+ float:right;
+ height:100px;
+ width:70px;
+ }
 	}
 
 		input[type="text"]:invalid,
